@@ -3,39 +3,25 @@
 let m=7;
 switch(m){
     case 1:
-        console.log("Jan");
-        break;
     case 2:
-        console.log("Feb");
+        console.log("Winter");
         break;
     case 3:
-        console.log("Mar");
-        break;
     case 4:
-        console.log("apr");
-        break;
     case 5:
-        console.log("may");
+        console.log("Spring");
         break;
     case 6:
-        console.log("june");
-        break;
     case 7:
-        console.log("july");
-        break;
-    case 8:
-        console.log("aug");
+    case 8:    
+        console.log("Summer");
         break;
     case 9:
-        console.log("sept");
-        break;
     case 10:
-        console.log("oct");
-        break;
     case 11:
-        console.log("nov");
+        console.log("Autumn");
         break;
     case 12:
-        console.log("dec");
+        console.log("Winter");
         break;
 }
