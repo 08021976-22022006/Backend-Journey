@@ -6,4 +6,4 @@ let car = {
     year:"202"
 };
 
-console.log(typeof car);
+console.log(typeof car.brand);
